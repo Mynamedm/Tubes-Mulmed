@@ -1,7 +1,14 @@
-"LIBRARY YANG PERLU DI INSTALL"
+                                            "LIBRARY YANG PERLU DI INSTALL"
 
 numpy (Digunakan untuk manipulasi array dan operasi numerik, seperti membuat mask dan memilih koordinat acak)
 
 opencv-python (Pustaka utama untuk pengolahan gambar dan video, seperti membaca frame webcam, memanipulasi gambar, dan menampilkan hasil)
 
 mediapipe (Digunakan untuk deteksi wajah dan landmark wajah menggunakan solusi Face Mesh)
+
+                                          (( Instalasi Tambahan pada Ubuntu ))
+Untuk menjalankan kode di Ubuntu, beberapa pustaka sistem tambahan diperlukan untuk mendukung OpenCV. Sebelum menjalankan script Python, jalankan perintah berikut di terminal:
+
+sudo apt update
+
+sudo apt install -y libsm6 libxext6 libxrender1 libglib2.0-0
