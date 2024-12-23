@@ -6,7 +6,10 @@ opencv-python (Pustaka utama untuk pengolahan gambar dan video, seperti membaca 
 
 mediapipe (Digunakan untuk deteksi wajah dan landmark wajah menggunakan solusi Face Mesh)
 
-                                          "(( Instalasi Tambahan pada Ubuntu ))"
+
+
+                                        "(( Instalasi Tambahan pada Ubuntu ))"
+
 Untuk menjalankan kode di Ubuntu, beberapa pustaka sistem tambahan diperlukan untuk mendukung OpenCV. Sebelum menjalankan script Python, jalankan perintah berikut di terminal:
 
 sudo apt update
