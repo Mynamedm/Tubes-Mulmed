@@ -8,7 +8,7 @@ Rama Aldiaksa Supi       | 121140056           | ramaaldiaksa
 Miftah Hasan Hadi Mohtar | 121140045           | Miftah114
 
 ## Deskripsi
-Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengguna. Efek ini akan mengikuti gerakan wajah secara real-time.
+Penambahan efek partikel di sekitar wajah pengguna. Efek ini akan mengikuti gerakan wajah secara real-time.
 
 ### Menggunakan library:
 - **MediaPipe Face Mesh** untuk mendeteksi wajah.
@@ -18,9 +18,9 @@ Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengg
 
 ## Fitur Utama
 - Deteksi wajah secara real-time menggunakan MediaPipe Face Mesh.
-- Efek partikel (seperti bintang atau gelembung) yang mengikuti gerakan wajah.
+- Efek partikel yang mengikuti gerakan wajah.
 - Real-time visualisasi dengan menggunakan webcam.
-- Tampilan hasil efek partikel yang dinamis di sekitar wajah pengguna.
+- Tampilan hasil efek partikel di sekitar wajah pengguna.
 
 ---
 
@@ -28,11 +28,11 @@ Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengg
 
 | **Minggu** | **Tanggal**   | **Progress**                                                                                                                                                               |
 |------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1          | 5/12/2024    | - Inisialisasi proyek, eksplorasi MediaPipe, studi dokumentasi API Face Mesh, implementasi deteksi wajah dan landmark wajah. <br> - Pengembangan logika efek partikel untuk mengikuti wajah. |
-| 2          | 10/12/2024    | - Menambahkan UI dengan OpenCV untuk menampilkan efek partikel di sekitar wajah. <br> - Finalisasi program dan dokumentasi awal proyek. |
-| 3          | 11/12/2024    | - Mengimplementasikan efek partikel dinamis dengan mengikuti gerakan wajah. <br> - Memperbaiki tampilan agar lebih user-friendly dan menarik. |
+| 1          | 5/12/2024    | - Inisialisasi proyek, eksplorasi MediaPipe, implementasi deteksi wajah dan landmark wajah. <br> - Pengembangan logika efek partikel untuk mengikuti wajah. |
+| 2          | 10/12/2024    | - Menambahkan tampilan dengan OpenCV untuk menampilkan efek partikel di sekitar wajah. <br> - Finalisasi program dan dokumentasi awal proyek. |
+| 3          | 14/12/2024    | - Mengimplementasikan efek partikel yang mengikuti gerakan wajah. <br> - Memperbaiki tampilan agar lebih user-friendly dan menarik. |
 | 4          | 22/12/2024    | - Menambahkan dokumentasi dengan LaTeX untuk laporan proyek. [Link Laporan](https://www.overleaf.com/project/676944b98ced759900e75834) |
-| 5          | 22/12/2024    | - Debugging dan optimasi performa, memastikan tidak ada bug dan glitch. Efek partikel berjalan dengan mulus mengikuti gerakan wajah. |
+| 5          | 23/12/2024    | - Debugging dan optimasi performa, memastikan tidak ada bug dan glitch. Efek partikel berjalan dengan mulus mengikuti gerakan wajah. |
 
 ---
 
@@ -44,13 +44,10 @@ Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengg
      ```bash
      pip install mediapipe opencv-python numpy
      ```
+     ((Selebihnya dapat dilihat di requirements.txt))
 
 2. **Penggunaan:**
-   - Jalankan skrip Python:
-     ```bash
-     python sparkling_effects.py
-     ```
-   - Arahkan wajah Anda ke kamera untuk melihat efek partikel (seperti bintang atau gelembung) yang mengikuti gerakan wajah Anda.
+   - Arahkan wajah Anda ke kamera untuk melihat efek partikel yang mengikuti gerakan wajah Anda.
 
 ---
 
