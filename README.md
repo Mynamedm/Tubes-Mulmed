@@ -31,7 +31,7 @@ Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengg
 | 1          | 5/12/2024    | - Inisialisasi proyek, eksplorasi MediaPipe, studi dokumentasi API Face Mesh, implementasi deteksi wajah dan landmark wajah. <br> - Pengembangan logika efek partikel untuk mengikuti wajah. |
 | 2          | 10/12/2024    | - Menambahkan UI dengan OpenCV untuk menampilkan efek partikel di sekitar wajah. <br> - Finalisasi program dan dokumentasi awal proyek. |
 | 3          | 11/12/2024    | - Mengimplementasikan efek partikel dinamis dengan mengikuti gerakan wajah. <br> - Memperbaiki tampilan agar lebih user-friendly dan menarik. |
-| 4          | 22/12/2024    | - Menambahkan dokumentasi dengan LaTeX untuk laporan proyek. [Link Laporan](#) |
+| 4          | 22/12/2024    | - Menambahkan dokumentasi dengan LaTeX untuk laporan proyek. [https://www.overleaf.com/project/676944b98ced759900e75834](#) |
 | 5          | 22/12/2024    | - Debugging dan optimasi performa, memastikan tidak ada bug dan glitch. Efek partikel berjalan dengan mulus mengikuti gerakan wajah. |
 
 ---
