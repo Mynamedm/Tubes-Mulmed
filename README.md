@@ -1,9 +1,11 @@
+# Filter Partikel (Sparkling Effects)
+
+## Anggota Kelompok
 NAMA                     | NIM                  |ID Github
 :----------------------: | :-----------------: | :---------------:
 Dias Morello Sembiring   | 120140167           | Mynamedm
 Rama Aldiaksa Supi       | 121140056           | ramaaldiaksa
 Miftah Hasan Hadi Mohtar | 121140045           | Miftah114
-# Filter Partikel (Sparkling Effects)
 
 ## Deskripsi
 Penambahan efek partikel (seperti bintang atau gelembung) di sekitar wajah pengguna. Efek ini akan mengikuti gerakan wajah secara real-time.
