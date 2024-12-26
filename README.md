@@ -49,7 +49,7 @@ Penambahan efek partikel di sekitar wajah pengguna. Efek ini akan mengikuti gera
 
 4. Jalankan proyek menggunakan:
    ```bash
-   python sparkling_effect.py
+   python Main Fix.py
 
 ---
 
