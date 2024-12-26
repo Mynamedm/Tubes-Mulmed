@@ -38,16 +38,18 @@ Penambahan efek partikel di sekitar wajah pengguna. Efek ini akan mengikuti gera
 
 ## Instruksi Instalasi dan Penggunaan
 
-1. **Persyaratan:**
-   - Python 3.x
-   - Install dependensi dengan pip:
-     ```bash
-     pip install mediapipe opencv-python numpy
-     ```
-     ((Selebihnya dapat dilihat di requirements.txt))
+1. **Clone repositori ini ke komputer Anda:**
+   ```bash
+   git clone https://github.com/username/sparkling-effect.git
+   cd sparkling-effect
 
-2. **Penggunaan:**
-   - Arahkan wajah Anda ke kamera untuk melihat efek partikel yang mengikuti gerakan wajah Anda.
+2. Instal Dependencies yang diperlukan dari file requirements.txt :
+   ```bash
+   pip install -r requirements.txt
+
+4. Jalankan proyek menggunakan:
+   ```bash
+   python sparkling_effect.py
 
 ---
 
