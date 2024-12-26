@@ -40,8 +40,8 @@ Penambahan efek partikel di sekitar wajah pengguna. Efek ini akan mengikuti gera
 
 1. **Clone repositori ini ke komputer Anda:**
    ```bash
-   git clone https://github.com/username/sparkling-effect.git
-   cd sparkling-effect
+   git clone https://github.com/username/Tubes-Mulmed.git
+   cd Tubes-Mulmed
 
 2. Instal Dependencies yang diperlukan dari file requirements.txt :
    ```bash
